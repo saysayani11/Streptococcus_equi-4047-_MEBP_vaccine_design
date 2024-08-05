@@ -1,4 +1,4 @@
-# A Multi-Epitope Based Peptide Vaccine against Spreptococcus Equi 
+# A Multi-Epitope Based Peptide(MEBP) Vaccine against Streptococcus Equi 
 
 A fusion vaccine for S Equi subspecies Equi (Strain: 4047) against equine disease Strangles
 
